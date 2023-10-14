@@ -151,7 +151,7 @@
 ## закончил в 2023-10-09 20:10
 
 # Level 3
-### 1. [assignment-funbox-nmax](https://github.com/qsimpleq/assignment-funbox-nmax)
+### 1. [assignment-funbox-nmax](https://github.com/qsimpleq/assignment-funbox-nmax) 1
    ### начало в 2023-10-10 13:30
 
    Напишите скрипт nmax, который делает следующее:
